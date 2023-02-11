@@ -4,11 +4,11 @@ Numpy is a powerful library for numerical computing in Python. It provides funct
 
 This tutorial will cover the basics of using Numpy, including:
 
-Installing Numpy
-Creating arrays
-Indexing and slicing arrays
-Basic mathematical operations with arrays
-Broadcasting
-Array reshaping
-Stacking and splitting arrays
-Basic linear algebra operations
+1. Installing Numpy
+2. Creating arrays
+3. Indexing and slicing arrays
+4. Basic mathematical operations with arrays
+5. Broadcasting
+6. Array reshaping
+7. Stacking and splitting arrays
+8. Basic linear algebra operations
